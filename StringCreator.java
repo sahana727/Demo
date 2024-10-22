@@ -32,7 +32,7 @@ public class StringCreator{
 
 		for(int i = 0 ; i < charArray.length ; i++){
 
-			System.out.println(charArray[i]);
+			System.out.print(charArray[i]);
 		}
 
 		
@@ -40,7 +40,7 @@ public class StringCreator{
 
 		for(int i = charArray.length-1 ; i>=0 ; i--){
 
-			System.out.println(charArray[i]);
+			System.out.print(charArray[i]);
 
 		}
 
